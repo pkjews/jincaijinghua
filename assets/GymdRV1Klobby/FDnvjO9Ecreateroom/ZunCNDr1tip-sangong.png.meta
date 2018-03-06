@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "10070e60-7a8c-4690-83c7-f35c06075fb9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ZunCNDr1tip-sangong": {
+      "ver": "1.0.3",
+      "uuid": "1e63066d-bbe9-4f2f-ac48-654228b93810",
+      "rawTextureUuid": "10070e60-7a8c-4690-83c7-f35c06075fb9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 94,
+      "height": 23,
+      "rawWidth": 94,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

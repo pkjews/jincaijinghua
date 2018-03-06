@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6b0ffc1f-3f85-497e-8886-a11868412d3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "627R1vNTvs-bomb-04": {
+      "ver": "1.0.3",
+      "uuid": "dcce29f6-7f3e-4797-943f-d9e6a1064699",
+      "rawTextureUuid": "6b0ffc1f-3f85-497e-8886-a11868412d3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": -52.5,
+      "trimX": 57,
+      "trimY": 137,
+      "width": 245,
+      "height": 231,
+      "rawWidth": 370,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

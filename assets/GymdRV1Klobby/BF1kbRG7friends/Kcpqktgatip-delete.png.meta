@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5f5ede04-2e41-4dc7-b8ad-f5bfdc8dd909",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Kcpqktgatip-delete": {
+      "ver": "1.0.3",
+      "uuid": "2ec6dcdd-9044-4e9d-8d01-e9951b70e799",
+      "rawTextureUuid": "5f5ede04-2e41-4dc7-b8ad-f5bfdc8dd909",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 22,
+      "rawWidth": 68,
+      "rawHeight": 22,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
